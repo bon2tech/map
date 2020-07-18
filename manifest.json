@@ -7,11 +7,11 @@
     "scope": "/",
     "start_url": "/pwa/index.html",
     "icons": [{
-        "src": "https://bon2tech.github.io/pwa/img/icon/apple-touch-icon_192x192.png",
+        "src": "https://bon2tech.github.io/map/img/icon/apple-touch-icon_192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       }, {
-        "src": "https://bon2tech.github.io/pwa/img/icon/apple-touch-icon_512x512.png",
+        "src": "https://bon2tech.github.io/map/img/icon/apple-touch-icon_512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }]

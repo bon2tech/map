@@ -114,5 +114,5 @@ function doRequest(method, url) {
 }
 
 (function init() {
-    doRequest("GET", "https://bon2tech.github.io/pwa/data/json/stations.json");
+    doRequest("GET", "https://bon2tech.github.io/map/data/json/stations.json");
 })();
